@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/associator.jsp=UTF-8
+encoding//WebContent/bk_product.jsp=UTF-8
+encoding//WebContent/footer.jsp=UTF-8
+encoding//WebContent/goods.jsp=UTF-8
+encoding//WebContent/header.jsp=UTF-8
+encoding//src/dao/good_dao.java=UTF-8
+encoding//src/dao/member_dao.java=UTF-8
+encoding//src/servlet/bk_good_chang.java=UTF-8
+encoding//src/servlet/login.java=UTF-8
+encoding//src/servlet/order.java=UTF-8
